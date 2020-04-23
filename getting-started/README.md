@@ -1,3 +1,5 @@
+## [![Open in Che](https://www.eclipse.org/che/images/ico/32x32.png) Open in Che](https://che.openshift.io/dashboard/#/load-factory/?url=https://github.com/murphye/quarkus-quickstarts/tree/master/getting-started)
+
 # Getting started with Quarkus
 
 This is a minimal CRUD service exposing a couple of endpoints over REST.
